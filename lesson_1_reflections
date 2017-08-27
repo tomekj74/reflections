@@ -23,7 +23,10 @@ maintainability of the project in the future.
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+> When each file is used as independently it makes sense to commit changes to
+each file separately. On the other hand in the software project it is important
+that changes to each file are synchronized since files depend on each other.
+Thus it is necessary to save the state of each file in the project together.
 
 How can you use the commands git log and git diff to view the history of files?
 
