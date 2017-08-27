@@ -30,13 +30,14 @@ Thus it is necessary to save the state of each file in the project together.
 
 How can you use the commands git log and git diff to view the history of files?
 
-git log is used to review the entire history of the file. git diff is used to
+> git log is used to review the entire history of the file. git diff is used to
 see the changes introduced in each commit.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+> Version control provides an easy way to roll back your changes and restore the
+project to a functional state.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
