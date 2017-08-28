@@ -3,3 +3,10 @@ local?
 
 > Remote repository is useful when there are multiple contributors to the repository
 or multiple users who need to clone this repository.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+> Automatic synchronization with remote repository would change the state
+of your project without your control. For instance, if you have a version of
+a software project that currently builds an automatic pull could break the build.
