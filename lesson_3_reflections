@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+> Remote repository is useful when there are multiple contributors to the repository
+or multiple users who need to clone this repository.
